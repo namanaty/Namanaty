@@ -1,11 +1,10 @@
-## Hi there! 👋
-### 😇 I am Namana Y Tarikere
-### 👩‍🎓 I am currently pursuing my master's degree in Cybersecurity at George Washington University
-### 🌎 I'm based in Arlington, Virginia
-### 🖥 Reach me at: https://www.linkedin.com/in/namanaty/
+### Hi there, I am Namana Y Tarikere
 
+#### 👩‍🎓 I am currently pursuing my master's degree in Cybersecurity at George Washington University
+#### 🌎 I'm based in Arlington, Virginia
+#### 🖥 Reach me at: https://www.linkedin.com/in/namanaty/
 
-## Skills
+### Skills
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,go,firebase,eclipse,dotnet,c,vscode,visualstudio,ts,tensorflow,stackoverflow,redux,react"/>
