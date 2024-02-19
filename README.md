@@ -1,4 +1,4 @@
-### Hi there, I am Namana Y Tarikere
+### Hi there, I am Namana Y Tarikere!
 
 #### 👩‍🎓 I am currently pursuing my master's degree in Cybersecurity at George Washington University
 #### 🌎 I'm based in Arlington, Virginia
